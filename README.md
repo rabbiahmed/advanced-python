@@ -22,3 +22,5 @@ System Design, Scaling, and Best Practices
 Putting It All Together
 - **Notebook 11**
 Must Know Python Data Structures
+- **Notebook 12**
+Algorithmic Patterns

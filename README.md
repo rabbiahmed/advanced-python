@@ -1,5 +1,7 @@
 # Yet Another Guide to Python
 ## Contents
+- **Notebook 0**
+Algorithmic Patterns
 - **Notebook 1**
 Core Python (Fundamentals)
 - **Notebook 2**
@@ -23,4 +25,7 @@ Putting It All Together
 - **Notebook 11**
 Must Know Python Data Structures
 - **Notebook 12**
-Algorithmic Patterns
+Functions as Objects
+- **Notebook 13**
+Decorators
+
